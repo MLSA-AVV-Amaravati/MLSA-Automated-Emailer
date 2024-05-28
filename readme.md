@@ -9,7 +9,7 @@ This is a python based automated emailer that sends emails to the participants o
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Polymath-Saksh/MLSA-Automated-Emailer.git
+git clone https://github.com/MLSA-AVV-Amaravati/MLSA-Automated-Emailer.git
 ```
 
 ### Follow the steps below to use the script
